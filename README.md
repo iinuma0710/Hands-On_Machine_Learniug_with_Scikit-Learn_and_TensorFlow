@@ -17,3 +17,8 @@
 ## 第14章 再帰型ニューラルネットワーク
 ## 第15章 オートエンコーダ
 ## 第16章 強化学習
+## Appendix.A 
+## Appendix.B
+## Appendix.C
+## Appendix.D
+## Appendix.E
