@@ -14,9 +14,9 @@ $ pip install tensorflow-gpu
 
 ## 9.2 最初のグラフの作成とセッション内での実行
 TensorFlow のプログラムは以下の2段階に分割される
-- Construction Phase (構築フェーズ)
+- Construction Phase (構築フェーズ)    
 ここで、機械学習モデルとそれを訓練するために必要な計算グラフを構築する
-- Execution Phase (実行フェーズ)
+- Execution Phase (実行フェーズ)    
 上で構築した計算グラフを実行し、モデルの訓練を行う
 
 ## 9.3 グラフの管理
