@@ -1,4 +1,4 @@
-# ml_by_tf_sklearn
+# Hands-On_Machine_Learniung_with_Scikit-Learn_and_TensorFlow
 「[scikit-learn と TensorFlow による機械学習](https://www.oreilly.co.jp/books/9784873118345/)」のリポジトリです.
 
 <div align="center">
