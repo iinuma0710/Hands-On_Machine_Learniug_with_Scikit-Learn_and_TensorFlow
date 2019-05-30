@@ -3,4 +3,4 @@ O'Reilly Japan「[scikit-learn と TensorFlow による実践機械学習](https
 
 <div align="center">
   <img src="https://www.oreilly.co.jp/books/images/picture_large978-4-87311-834-5.jpeg" title="scikit-learn と TensorFlow による機械学習">
-</duv>
+</dv>
